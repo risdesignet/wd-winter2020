@@ -1,0 +1,17 @@
+h1 {
+  font-family: 'Ultra', serif;
+  font-size: 48px;
+}
+
+h2 {
+  font-family: urbane, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+p {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 800;
+  color: purple;
+  font-size: 20px;
+}
