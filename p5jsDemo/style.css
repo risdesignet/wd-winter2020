@@ -1,0 +1,11 @@
+.person_image {
+  position: relative;
+  top: 200;
+  z-index: 10;
+  width: 500px;
+  height: 500px;
+  background: url("assets/person.png") no-repeat;
+  background-size: cover;
+  /* background-color: red; */
+
+}
